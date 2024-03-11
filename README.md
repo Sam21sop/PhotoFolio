@@ -64,11 +64,11 @@ Photo-Gallery-app/
 #### installation
 1. Clone the Repository
     ```bash
-    git clone https://github.com/Sam21sop/Photo-Gallery.git
+    git clone https://github.com/Sam21sop/PhotoFolio.git
 
 2. Navigate ti the Project Directory
     ```bash
-    cd Photo-Gallery
+    cd PhotoFolio
 
 3. Install Dependency
     ```bash
