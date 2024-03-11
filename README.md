@@ -1,2 +1,0 @@
-# PhotoFolio
-React Application
